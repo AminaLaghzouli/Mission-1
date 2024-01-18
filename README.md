@@ -1,6 +1,7 @@
-# Démarrez votre formation de Business Intelligence Analyste
-L’objectif de ce premier projet est de vous mettre dans les meilleures conditions pour réussir votre parcours, puis votre évolution professionnelle.
-# But de projet :
-Dans ce projet, on a trois livrables qui m'a permet d'apprendre deux choses :
--Fixer mes objectifs dans le temps et découvrir le métier
--Connaître les softs skills de business intelligence analystes.
+
+# Start your Business Intelligence Analyst training. 
+The objective of this initial project is to put you in the best conditions for success in your journey and professional development.
+# Project Goals:
+In this project, there are three deliverables that allowed me to learn two things:
+Set my goals over time and discover the profession.
+Understand the soft skills of business intelligence analysts."
